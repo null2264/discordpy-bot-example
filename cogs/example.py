@@ -8,8 +8,11 @@ class ExampleCog(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 
-    @commands.command()
+    @commands.command(example=["ping"])
     async def ping(self, ctx):
+        """
+        Show bot's ping.
+        """
         websocket = round(self.bot.latency*1000, 2)
 
         ping_start = time.perf_counter()

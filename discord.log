@@ -81,3 +81,43 @@
 17/01/2021 (19:37:10) - [INFO]: Cleaning up after 2 tasks.
 17/01/2021 (19:37:10) - [INFO]: All tasks finished cancelling.
 17/01/2021 (19:37:10) - [INFO]: Closing the event loop.
+17/01/2021 (20:04:35) - [INFO]: logging in using static token
+17/01/2021 (20:04:35) - [INFO]: Shard ID None has sent the IDENTIFY payload.
+17/01/2021 (20:04:36) - [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-vl2d",{"micros":92419,"calls":["discord-sessions-prd-2-14",{"micros":91588,"calls":["start_session",{"micros":51569,"calls":["api-prd-main-2k1j",{"micros":49334,"calls":["get_user",{"micros":4453},"add_authorized_ip",{"micros":1736},"get_guilds",{"micros":12691},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":15162,"calls":[]}]}]}] (Session ID: dddf6d8e35aff6444d0fb5a7d2640e60).
+17/01/2021 (20:04:38) - [WARNING]: Online: ziBot Dev#7348 (ID: 733622032901603388)
+17/01/2021 (20:04:41) - [INFO]: Cleaning up tasks.
+17/01/2021 (20:04:41) - [INFO]: Cleaning up after 2 tasks.
+17/01/2021 (20:04:41) - [INFO]: All tasks finished cancelling.
+17/01/2021 (20:04:41) - [INFO]: Closing the event loop.
+17/01/2021 (20:07:12) - [INFO]: logging in using static token
+17/01/2021 (20:07:13) - [INFO]: Shard ID None has sent the IDENTIFY payload.
+17/01/2021 (20:07:13) - [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-fjjh",{"micros":77736,"calls":["discord-sessions-prd-2-116",{"micros":76243,"calls":["start_session",{"micros":44653,"calls":["api-prd-main-v701",{"micros":41584,"calls":["get_user",{"micros":2374},"add_authorized_ip",{"micros":1515},"get_guilds",{"micros":9815},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":28999,"calls":[]}]}]}] (Session ID: d1b752fc0a83cef325e4fca09e2b9f51).
+17/01/2021 (20:07:15) - [WARNING]: Online: ziBot Dev#7348 (ID: 733622032901603388)
+17/01/2021 (20:07:25) - [INFO]: Cleaning up tasks.
+17/01/2021 (20:07:25) - [INFO]: Cleaning up after 2 tasks.
+17/01/2021 (20:07:25) - [INFO]: All tasks finished cancelling.
+17/01/2021 (20:07:25) - [INFO]: Closing the event loop.
+17/01/2021 (20:07:50) - [INFO]: logging in using static token
+17/01/2021 (20:07:50) - [INFO]: Shard ID None has sent the IDENTIFY payload.
+17/01/2021 (20:07:51) - [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-ncvv",{"micros":48282,"calls":["discord-sessions-prd-2-84",{"micros":46920,"calls":["start_session",{"micros":44439,"calls":["api-prd-main-nzn0",{"micros":38097,"calls":["get_user",{"micros":3612},"add_authorized_ip",{"micros":1719},"get_guilds",{"micros":4117},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1659,"calls":[]}]}]}] (Session ID: 654539f19853338d3c72d43b196bbb54).
+17/01/2021 (20:07:53) - [WARNING]: Online: ziBot Dev#7348 (ID: 733622032901603388)
+17/01/2021 (20:11:45) - [INFO]: Cleaning up tasks.
+17/01/2021 (20:11:45) - [INFO]: Cleaning up after 2 tasks.
+17/01/2021 (20:11:45) - [INFO]: All tasks finished cancelling.
+17/01/2021 (20:11:45) - [INFO]: Closing the event loop.
+17/01/2021 (20:11:46) - [INFO]: logging in using static token
+17/01/2021 (20:11:47) - [INFO]: Shard ID None has sent the IDENTIFY payload.
+17/01/2021 (20:11:47) - [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-qz2h",{"micros":42998,"calls":["discord-sessions-prd-2-79",{"micros":41866,"calls":["start_session",{"micros":36507,"calls":["api-prd-main-c0pp",{"micros":33230,"calls":["get_user",{"micros":3158},"add_authorized_ip",{"micros":1469},"get_guilds",{"micros":4185},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":4720,"calls":[]}]}]}] (Session ID: 360460bbc6d2f01dc351add00a891737).
+17/01/2021 (20:11:49) - [WARNING]: Online: ziBot Dev#7348 (ID: 733622032901603388)
+17/01/2021 (20:12:00) - [INFO]: Cleaning up tasks.
+17/01/2021 (20:12:00) - [INFO]: Cleaning up after 2 tasks.
+17/01/2021 (20:12:00) - [INFO]: All tasks finished cancelling.
+17/01/2021 (20:12:00) - [INFO]: Closing the event loop.
+17/01/2021 (20:12:31) - [INFO]: logging in using static token
+17/01/2021 (20:12:32) - [INFO]: Shard ID None has sent the IDENTIFY payload.
+17/01/2021 (20:12:32) - [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-kdrz",{"micros":84186,"calls":["discord-sessions-prd-2-86",{"micros":83523,"calls":["start_session",{"micros":33657,"calls":["api-prd-main-svsf",{"micros":31222,"calls":["get_user",{"micros":2648},"add_authorized_ip",{"micros":1454},"get_guilds",{"micros":4249},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":29904,"calls":[]}]}]}] (Session ID: 41788bad8de0366b48320b959e718ce1).
+17/01/2021 (20:12:34) - [WARNING]: Online: ziBot Dev#7348 (ID: 733622032901603388)
+17/01/2021 (20:16:26) - [INFO]: Cleaning up tasks.
+17/01/2021 (20:16:26) - [INFO]: Cleaning up after 2 tasks.
+17/01/2021 (20:16:26) - [INFO]: All tasks finished cancelling.
+17/01/2021 (20:16:26) - [INFO]: Closing the event loop.
