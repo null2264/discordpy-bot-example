@@ -1,0 +1,83 @@
+17/01/2021 (19:24:35) - [INFO]: logging in using static token
+17/01/2021 (19:24:36) - [INFO]: Shard ID None has sent the IDENTIFY payload.
+17/01/2021 (19:24:36) - [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-jlp3",{"micros":49397,"calls":["discord-sessions-prd-2-110",{"micros":46107,"calls":["start_session",{"micros":33860,"calls":["api-prd-main-qrd8",{"micros":31263,"calls":["get_user",{"micros":2554},"add_authorized_ip",{"micros":1342},"get_guilds",{"micros":4216},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":11649,"calls":[]}]}]}] (Session ID: 3ac8d4cb80519600efd3a0a041a89d88).
+17/01/2021 (19:24:45) - [INFO]: Cleaning up tasks.
+17/01/2021 (19:24:45) - [INFO]: Cleaning up after 1 tasks.
+17/01/2021 (19:24:45) - [INFO]: All tasks finished cancelling.
+17/01/2021 (19:24:45) - [INFO]: Closing the event loop.
+17/01/2021 (19:25:22) - [INFO]: logging in using static token
+17/01/2021 (19:25:22) - [INFO]: Shard ID None has sent the IDENTIFY payload.
+17/01/2021 (19:25:23) - [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-f4xr",{"micros":186219,"calls":["discord-sessions-prd-2-42",{"micros":185383,"calls":["start_session",{"micros":125615,"calls":["api-prd-main-f5bw",{"micros":119784,"calls":["get_user",{"micros":13088},"add_authorized_ip",{"micros":6804},"get_guilds",{"micros":24702},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":29701,"calls":[]}]}]}] (Session ID: e7dffab79ddc06eb1e91dc236c90aff3).
+17/01/2021 (19:25:29) - [INFO]: Cleaning up tasks.
+17/01/2021 (19:25:29) - [INFO]: Cleaning up after 2 tasks.
+17/01/2021 (19:25:29) - [INFO]: All tasks finished cancelling.
+17/01/2021 (19:25:29) - [INFO]: Closing the event loop.
+17/01/2021 (19:27:15) - [INFO]: logging in using static token
+17/01/2021 (19:27:16) - [INFO]: Shard ID None has sent the IDENTIFY payload.
+17/01/2021 (19:27:16) - [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-9p65",{"micros":117355,"calls":["discord-sessions-prd-2-24",{"micros":111687,"calls":["start_session",{"micros":76775,"calls":["api-prd-main-c0pp",{"micros":73291,"calls":["get_user",{"micros":6725},"add_authorized_ip",{"micros":9123},"get_guilds",{"micros":10576},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":8158,"calls":[]}]}]}] (Session ID: 3d68fe8d09c08a6b8337ce02a605e972).
+17/01/2021 (19:27:18) - [WARNING]: Online: ziBot Dev#7348 (ID: 733622032901603388)
+17/01/2021 (19:27:43) - [INFO]: Cleaning up tasks.
+17/01/2021 (19:27:43) - [INFO]: Cleaning up after 2 tasks.
+17/01/2021 (19:27:43) - [INFO]: All tasks finished cancelling.
+17/01/2021 (19:27:43) - [INFO]: Closing the event loop.
+17/01/2021 (19:27:52) - [INFO]: logging in using static token
+17/01/2021 (19:27:53) - [INFO]: Shard ID None has sent the IDENTIFY payload.
+17/01/2021 (19:27:53) - [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-l9jq",{"micros":78258,"calls":["discord-sessions-prd-2-5",{"micros":74007,"calls":["start_session",{"micros":47097,"calls":["api-prd-main-6860",{"micros":44430,"calls":["get_user",{"micros":2556},"add_authorized_ip",{"micros":9748},"get_guilds",{"micros":5546},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":12087,"calls":[]}]}]}] (Session ID: 5066a08935cacd0c32ca755dfd1bda43).
+17/01/2021 (19:27:55) - [WARNING]: Online: ziBot Dev#7348 (ID: 733622032901603388)
+17/01/2021 (19:28:03) - [INFO]: Cleaning up tasks.
+17/01/2021 (19:28:03) - [INFO]: Cleaning up after 2 tasks.
+17/01/2021 (19:28:03) - [INFO]: All tasks finished cancelling.
+17/01/2021 (19:28:03) - [INFO]: Closing the event loop.
+17/01/2021 (19:28:41) - [INFO]: logging in using static token
+17/01/2021 (19:28:42) - [INFO]: Shard ID None has sent the IDENTIFY payload.
+17/01/2021 (19:28:42) - [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-79mr",{"micros":54666,"calls":["discord-sessions-prd-2-31",{"micros":52565,"calls":["start_session",{"micros":32905,"calls":["api-prd-main-v701",{"micros":29442,"calls":["get_user",{"micros":2478},"add_authorized_ip",{"micros":1900},"get_guilds",{"micros":3773},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":5889,"calls":[]}]}]}] (Session ID: 06aa2606ddbc445dd2e29e26286fa39d).
+17/01/2021 (19:28:56) - [INFO]: Cleaning up tasks.
+17/01/2021 (19:28:56) - [INFO]: Cleaning up after 2 tasks.
+17/01/2021 (19:28:56) - [INFO]: All tasks finished cancelling.
+17/01/2021 (19:28:56) - [INFO]: Closing the event loop.
+17/01/2021 (19:29:03) - [INFO]: logging in using static token
+17/01/2021 (19:29:04) - [INFO]: Shard ID None has sent the IDENTIFY payload.
+17/01/2021 (19:29:04) - [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-vlh7",{"micros":139437,"calls":["discord-sessions-prd-2-35",{"micros":136878,"calls":["start_session",{"micros":126938,"calls":["api-prd-main-x6vw",{"micros":123483,"calls":["get_user",{"micros":18517},"add_authorized_ip",{"micros":5020},"get_guilds",{"micros":16935},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":8894,"calls":[]}]}]}] (Session ID: fdc5abc97d0fe8fce49173663c47932a).
+17/01/2021 (19:29:09) - [INFO]: Cleaning up tasks.
+17/01/2021 (19:29:09) - [INFO]: Cleaning up after 2 tasks.
+17/01/2021 (19:29:09) - [INFO]: All tasks finished cancelling.
+17/01/2021 (19:29:09) - [INFO]: Closing the event loop.
+17/01/2021 (19:29:18) - [INFO]: logging in using static token
+17/01/2021 (19:29:19) - [INFO]: Shard ID None has sent the IDENTIFY payload.
+17/01/2021 (19:29:21) - [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-mfdt",{"micros":1413498,"calls":["discord-sessions-prd-2-7",{"micros":1412582,"calls":["start_session",{"micros":1398505,"calls":["api-prd-main-c1mz",{"micros":1395926,"calls":["get_user",{"micros":2734},"add_authorized_ip",{"micros":1427},"get_guilds",{"micros":3489},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":3468,"calls":[]}]}]}] (Session ID: dd54c94ff3bd40c77ace3147c4e6fc25).
+17/01/2021 (19:29:23) - [WARNING]: Online: ziBot Dev#7348 (ID: 733622032901603388)
+17/01/2021 (19:29:28) - [INFO]: Cleaning up tasks.
+17/01/2021 (19:29:28) - [INFO]: Cleaning up after 2 tasks.
+17/01/2021 (19:29:28) - [INFO]: All tasks finished cancelling.
+17/01/2021 (19:29:28) - [INFO]: Closing the event loop.
+17/01/2021 (19:30:53) - [INFO]: logging in using static token
+17/01/2021 (19:30:53) - [INFO]: Shard ID None has sent the IDENTIFY payload.
+17/01/2021 (19:30:54) - [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-xwf7",{"micros":45777,"calls":["discord-sessions-prd-2-100",{"micros":45095,"calls":["start_session",{"micros":32687,"calls":["api-prd-main-30j8",{"micros":28408,"calls":["get_user",{"micros":2655},"add_authorized_ip",{"micros":1370},"get_guilds",{"micros":4353},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":15,"calls":[]},"presence_connect",{"micros":3879,"calls":[]}]}]}] (Session ID: 0f6ab1362d577296fd63f11d0a53baa1).
+17/01/2021 (19:30:56) - [WARNING]: Online: ziBot Dev#7348 (ID: 733622032901603388)
+17/01/2021 (19:31:10) - [INFO]: Cleaning up tasks.
+17/01/2021 (19:31:10) - [INFO]: Cleaning up after 2 tasks.
+17/01/2021 (19:31:10) - [INFO]: All tasks finished cancelling.
+17/01/2021 (19:31:10) - [INFO]: Closing the event loop.
+17/01/2021 (19:34:21) - [INFO]: logging in using static token
+17/01/2021 (19:34:21) - [INFO]: Shard ID None has sent the IDENTIFY payload.
+17/01/2021 (19:34:22) - [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-7s4q",{"micros":74920,"calls":["discord-sessions-prd-2-27",{"micros":71990,"calls":["start_session",{"micros":57947,"calls":["api-prd-main-233j",{"micros":55453,"calls":["get_user",{"micros":2403},"add_authorized_ip",{"micros":2896},"get_guilds",{"micros":8162},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":5696,"calls":[]}]}]}] (Session ID: 228b3c208f155ee072e9f9f27355d5b2).
+17/01/2021 (19:34:31) - [INFO]: Cleaning up tasks.
+17/01/2021 (19:34:31) - [INFO]: Cleaning up after 2 tasks.
+17/01/2021 (19:34:31) - [INFO]: All tasks finished cancelling.
+17/01/2021 (19:34:31) - [INFO]: Closing the event loop.
+17/01/2021 (19:34:46) - [INFO]: logging in using static token
+17/01/2021 (19:34:47) - [INFO]: Shard ID None has sent the IDENTIFY payload.
+17/01/2021 (19:34:47) - [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-tmbj",{"micros":57271,"calls":["discord-sessions-prd-2-112",{"micros":54403,"calls":["start_session",{"micros":51922,"calls":["api-prd-main-dq2c",{"micros":49163,"calls":["get_user",{"micros":4159},"add_authorized_ip",{"micros":2745},"get_guilds",{"micros":14618},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 00bf83b2216c86986d35bd88bbae984f).
+17/01/2021 (19:34:49) - [WARNING]: Online: ziBot Dev#7348 (ID: 733622032901603388)
+17/01/2021 (19:35:30) - [INFO]: Cleaning up tasks.
+17/01/2021 (19:35:30) - [INFO]: Cleaning up after 2 tasks.
+17/01/2021 (19:35:30) - [INFO]: All tasks finished cancelling.
+17/01/2021 (19:35:30) - [INFO]: Closing the event loop.
+17/01/2021 (19:36:47) - [INFO]: logging in using static token
+17/01/2021 (19:36:48) - [INFO]: Shard ID None has sent the IDENTIFY payload.
+17/01/2021 (19:36:48) - [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-0f4w",{"micros":72670,"calls":["discord-sessions-prd-2-2",{"micros":71418,"calls":["start_session",{"micros":56326,"calls":["api-prd-main-vd5x",{"micros":49517,"calls":["get_user",{"micros":7924},"add_authorized_ip",{"micros":1236},"get_guilds",{"micros":6797},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":11588,"calls":[]}]}]}] (Session ID: 669563f590058cf5f4e5570f0b61d9b0).
+17/01/2021 (19:36:50) - [WARNING]: Online: ziBot Dev#7348 (ID: 733622032901603388)
+17/01/2021 (19:37:10) - [INFO]: Cleaning up tasks.
+17/01/2021 (19:37:10) - [INFO]: Cleaning up after 2 tasks.
+17/01/2021 (19:37:10) - [INFO]: All tasks finished cancelling.
+17/01/2021 (19:37:10) - [INFO]: Closing the event loop.
