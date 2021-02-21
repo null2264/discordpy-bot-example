@@ -7,7 +7,7 @@ from discord.ext import commands, tasks
 import config
 
 extensions = [
-    "cogs.example",
+    "cogs.ExampleCog",
 ]
 
 
