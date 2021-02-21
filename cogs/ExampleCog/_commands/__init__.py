@@ -1,1 +1,1 @@
-from .test import Ping
+from .ping import Ping
