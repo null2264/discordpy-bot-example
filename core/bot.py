@@ -43,6 +43,9 @@ class ExampleBot(commands.Bot):
         # bot's default prefix
         self.def_prefix = [">"]
 
+        # change bot's presence into guild live count
+        self.guild_counter.start()
+
     @tasks.loop(minutes=2)
     async def guild_counter(self):
         """
@@ -54,13 +57,6 @@ class ExampleBot(commands.Bot):
         await self.change_presence(activity=activity)
 
     async def on_ready(self):
-        # change bot's presence into guild live count
-        self.guild_counter.start()
-
-        # load all listed extensions
-        for extension in extensions:
-            self.load_extension(extension)
-
         self.logger.warning(f"Online: {self.user} (ID: {self.user.id})")
 
     async def on_message(self, message):
@@ -83,6 +79,10 @@ class ExampleBot(commands.Bot):
         await super().close()
 
     def run(self):
+        # load all listed extensions
+        for extension in extensions:
+            self.load_extension(extension)
+
         super().run(config.token, reconnect=True)
 
     @property
